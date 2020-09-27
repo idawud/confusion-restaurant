@@ -209,14 +209,6 @@
 			"comment": "this is a test",
 			"date": "2020-09-03T23:21:06.837Z",
 			"id": 20
-		},
-		{
-			"dishId": 3,
-			"rating": "4",
-			"author": "DOCKER_USERNAME",
-			"comment": "wow sooo delicious",
-			"date": "2020-09-04T22:49:59.784Z",
-			"id": 21
 		}
 	],
 	"promotions": [
@@ -270,17 +262,6 @@
 	],
 	"feedback": [
 		{
-			"firstname": "fdas",
-			"lastname": "afds",
-			"telnum": "134113",
-			"email": "dafdads@daffas.dfdafd",
-			"agree": true,
-			"contactType": "Email",
-			"message": "afadsfds",
-			"date": "2017-12-04T09:41:49.890Z",
-			"id": 1
-		},
-		{
 			"firstname": "Samuel",
 			"lastname": "Bartels",
 			"telnum": "53373646",
@@ -300,28 +281,6 @@
 			"message": "another message",
 			"date": "2020-09-04T23:18:00.366Z",
 			"id": 3
-		},
-		{
-			"firstname": "Samuel",
-			"lastname": "Bartels",
-			"telnum": "53373646",
-			"email": "bartelssamuel20@gmail.com",
-			"agree": true,
-			"contactType": "Tel.",
-			"message": "pertis msg",
-			"date": "2020-09-04T23:33:32.628Z",
-			"id": 4
-		},
-		{
-			"firstname": "Dawud",
-			"lastname": "Ismail",
-			"telnum": "53373646",
-			"email": "ismaildawud96@gmail.com",
-			"agree": true,
-			"contactType": "Tel.",
-			"message": "submit me now",
-			"date": "2020-09-04T23:34:51.383Z",
-			"id": 5
 		}
 	]
 }
